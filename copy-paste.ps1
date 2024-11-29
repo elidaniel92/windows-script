@@ -1,0 +1,1 @@
+Copy-Item -Path ".\origin\example.txt" -Destination ".\destination\"
